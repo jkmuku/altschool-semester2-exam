@@ -4,7 +4,7 @@ function countReducer(initialState = 0, action) {
     } else if (action.type === 'decrement') {
       return initialState - 1;
     } else if (action.type === 'reset') {
-      return initialState;
+      return 0;
     } else {
       return initialState;
     }

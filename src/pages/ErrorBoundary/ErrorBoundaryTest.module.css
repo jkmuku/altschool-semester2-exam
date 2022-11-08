@@ -1,0 +1,11 @@
+.testContainer{
+    margin-top: 20%;
+}
+
+.testContainer div {
+    font-size: 3rem;
+}
+
+.testContainer span{
+    color: #6666FF;
+}
