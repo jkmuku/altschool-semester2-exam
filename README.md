@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+http://altschool-semester2-exam.vercel.app/
+
+## About
+This is a project for AltSchool examination
+
 ## Available Scripts
 
 In the project directory, you can run:
